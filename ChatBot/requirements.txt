@@ -1,0 +1,7 @@
+nltk
+scikit-learn
+transformers
+torch
+gradio
+pyttsx3
+SpeechRecognition
